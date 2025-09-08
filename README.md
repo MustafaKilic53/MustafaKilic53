@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Mustafa Talha Kılıç</h1>
-<h3 align="left">I'm a **Full Stack Ruby on Rails Developer** currently working full-time at Modaltrans.</h3>
 
 - 🔭 I’m currently working on [Modaltrans](https://modaltrans.com/)
 
