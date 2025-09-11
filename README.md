@@ -29,5 +29,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustafaKilic53&show_icons=true&locale=en&layout=compact" alt="mustafakilic53" /></p>
-
-<p>![Profile views](https://komarev.com/ghpvc/?username=MustafaKilic53&color=blue)</p>
